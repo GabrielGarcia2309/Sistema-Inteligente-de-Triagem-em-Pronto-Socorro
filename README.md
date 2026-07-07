@@ -6,7 +6,7 @@ Este projeto aplica a Ciência de Dados e a Inteligência Artificial para otimiz
 
 ---
 
-## O Problema 
+## O Problema de Negócio
 Em hospitais lotados, a triagem puramente baseada na ordem de chegada (FIFO) ignora a biologia humana e pode custar vidas. O tempo de espera atua como um agravante exponencial silencioso. A proposta deste sistema é traduzir sinais clínicos em linguagem matemática, calculando dinamicamente quem deve ser atendido primeiro para minimizar o dano colateral de toda a fila. O objetivo central é utilizar os dados como ferramenta de intervenção prática para gerar valor e proteção ao coletivo.
 
 ## Arquitetura do Sistema
