@@ -56,12 +56,17 @@ O projeto deve ser executado localmente na sua máquina através da linha de com
    ```bash
    cd caminho/ate/a/sua/pasta
 
-3. **Instale as dependências (OBRIGATÓRIO antes de rodar):**
+3. **Crie uma venv (ambiente virtual):** Use os comandos
+   ```bash
+   python -m venv venv
+   .\venv\Scripts\Activate.ps1
+
+5. **Instale as dependências (OBRIGATÓRIO antes de rodar):**
    Use o comando `pip install`
    ```bash
    pip install pgmpy numpy pandas matplotlib seaborn networkx
 
-4.**Execute o script do projeto:**
+5.**Execute o script do projeto:**
    Use o comando `python` + nome do arquivo
    ```
    python "ia_trabalho_final_codigo.py" 
