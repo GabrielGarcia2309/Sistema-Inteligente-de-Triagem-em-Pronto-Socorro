@@ -45,9 +45,13 @@ O sistema avaliou e comparou três abordagens de tomada de decisão. As visualiz
 
 ## Como Executar
 
-Para reproduzir as análises localmente via Terminal (rodando o script Python `.py` convertido):
+O projeto deve ser executado localmente na sua máquina através da linha de comando.
 
-1. Clone o repositório ou baixe o arquivo de código fonte.
-2. Instale as bibliotecas necessárias executando em seu terminal:
+1. **Abra o terminal do seu sistema operacional:**
+   * No Windows: Abra o *PowerShell* ou *Prompt de Comando (cmd)*.
+   * No macOS/Linux: Abra o *Terminal*.
+
+2. **Navegue até a pasta onde o código está salvo:**
+   Use o comando `cd` seguido do caminho da pasta. Exemplo:
    ```bash
-   pip install pgmpy numpy pandas matplotlib seaborn networkx
+   cd caminho/ate/a/sua/pasta
