@@ -55,3 +55,10 @@ O projeto deve ser executado localmente na sua máquina através da linha de com
    Use o comando `cd` seguido do caminho da pasta. Exemplo:
    ```bash
    cd caminho/ate/a/sua/pasta
+
+3. **Instale as dependências (OBRIGATÓRIO antes de rodar):**
+   Use o comando 'pip install pgmpy numpy pandas matplotlib seaborn networkx'
+
+4.**Execute o script do projeto:**
+   Use o comando 'python "ia_trabalho_final_codigo.py" (se esse for o nome do arquivo que deseja executar)
+
